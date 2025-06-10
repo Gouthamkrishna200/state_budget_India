@@ -7,7 +7,7 @@ Visually compare how states differ in loan amounts or volumes.
 
 
 
-This Tableau workbook is designed to visualize loan trends across INDIA states over different time periods. It's likely focused on comparing how loans have changed from 2017 to 2022, showing patterns like:
+This Tableau workbook is designed to visualize loan trends across INDIA'S states over different time periods. It's likely focused on comparing how loans have changed from 2017 to 2022, showing patterns like:
 1. Total number or amount of loans issued per state.
 2. Growth or decline in loans over time.
 3. Possibly categorized by loan types or borrower groups.
